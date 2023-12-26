@@ -1,5 +1,9 @@
 ## Development Guide
 
+### Stack
+
+Rails + Tailwindcss + Vuejs + ElementUI
+
 ### Screenshots
 ![Screenshot](./public/demo.jpg)
 ![Screenshot](./public/demo2.jpg)
@@ -18,3 +22,9 @@ yarn dev-build
 ```bash
 rails tailwindcss:watch
 ```
+
+### Version
+
+See `.tool-versions`
+
+Recommended to use [asdf](https://github.com/asdf-vm/asdf)
